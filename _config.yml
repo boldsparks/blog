@@ -1,13 +1,5 @@
-title: Immaculate
-description: >
-  A beautiful, fast, AMP-compliant Jekyll theme based on Tufte CSS.
-baseurl: "/immaculate"
-url: "https://github.com/siawyoung/immaculate"
-paginate:	2 # The number of posts to show per page on your homepage
-name: "Lau Siaw Young"
-markdown: kramdown
-permalink: none
-kramdown:
-  parse_block_html: true
-gems:
-  - jekyll-paginate
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: 
