@@ -2,6 +2,25 @@
 layout: default
 ---
 
+ <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+
+{% for post in site.posts %}
+
+<h2>{{ post.title }}</h2>
+<p class="meta">{{ post.date | date_to_string }}</p>
+
+{{ content }}
+
+{% endfor %}
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
