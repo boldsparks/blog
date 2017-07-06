@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Facebook Enters Enterprise Social Network Space
+link: http://techcrunch.com/2015/01/14/facebook-at-work-ios-android/
 date: '2015-01-14 22:19:09'
 ---
-
-<!-- link[http://techcrunch.com/2015/01/14/facebook-at-work-ios-android/] -->
 
 Facebook has launched a limited pilot of Facebook At Work which allows companies to create their own private social network for their employees. It seems fairly full featured with:
 

@@ -1,13 +1,12 @@
 ---
 layout: post
 title: 'Salesforce Analytics Wave: 100 Days Later'
+link: http://www.cmswire.com/cms/analytics/the-salesforce-wave-rolls-past-its-first-100-days-027921.php
 date: '2015-01-31 23:55:58'
 tags:
 - wave
 - analytics
 ---
-
-<!-- link[http://www.cmswire.com/cms/analytics/the-salesforce-wave-rolls-past-its-first-100-days-027921.php] -->
 
 100 days on from the Analytics Cloud announcements at Dreamforce, it is not clear how successful it has been with customers. Tom Murphy at CMS Wire offers some good analysis on the launch.
 

@@ -21,7 +21,7 @@ Note that this is currently available for US organizations only.
 
 ##### Named Credentials
 
-![Named Credentials UI](/content/images/2015/01/Screenshot-2014-12-31-17-52-27.png)
+![Named Credentials UI](/assets/images/Screenshot-2014-12-31-17-52-27.png)
 
 > A named credential specifies a callout endpoint and its required authentication parameters. When setting up callouts, avoid setting authentication parameters for each callout by referencing named credentials.
 
@@ -37,7 +37,7 @@ Note that this is currently available for US organizations only.
 
 ##### Duplicate Management
 
-![Account Matching Rule UI](/content/images/2015/01/Screenshot-2014-12-31-17-33-13.png)
+![Account Matching Rule UI](/assets/images/Screenshot-2014-12-31-17-33-13.png)
 
 > Duplicate Rules work together with matching rules to prevent users from creating duplicate records.
 
@@ -69,7 +69,7 @@ Record types and sharing for Assets.
 
 ##### Salesforce Files
 
-![Regenerate Previews for Files](/content/images/2015/01/Screenshot-2014-12-31-17-40-54.png)
+![Regenerate Previews for Files](/assets/images/Screenshot-2014-12-31-17-40-54.png)
 
 Regenerate previews for Salesforce Files.
 
@@ -80,5 +80,3 @@ Regenerate previews for Salesforce Files.
 > An action link is a button on a feed element that targets an API, a Web page, or a file. Use action links to integrate Salesforce and third-party systems into the feed. Every action link belongs to an action link group and action links within the group are mutually exclusive.
 
 Is there anything else new that you have spotted?
-
-Photo: [duncanh1](https://www.flickr.com/photos/duncanh1/7003508338/).

@@ -2,12 +2,11 @@
 layout: post
 title: 'Spring ''15: Lightning Process Builder'
 date: '2015-01-11 22:53:13'
+link: https://help.salesforce.com/HTViewHelpDoc?id=process_overview.htm
 tags:
 - lightning
 - process-builder
 ---
-
-<!-- link[https://help.salesforce.com/HTViewHelpDoc?id=process_overview.htm] -->
 
 The Lightning Process Builder is now active in Salesforce Spring '15 sandboxes - the early release instances were activated this weekend.
 

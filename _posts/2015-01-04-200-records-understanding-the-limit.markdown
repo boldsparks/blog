@@ -78,5 +78,5 @@ This problem common if changing something on the Master record in a Master-Detai
 
 The best solution is to build your Salesforce customisations holistically and to carefully think through the impacts that updating many records in a DML statement can have.
 
-Photo: [countylemonade](https://www.flickr.com/photos/countylemonade/5916416464), Code: [Github Gist](https://gist.github.com/samdavyson/ef3972bf973d9a211698)
+Code: [Github Gist](https://gist.github.com/samdavyson/ef3972bf973d9a211698)
    

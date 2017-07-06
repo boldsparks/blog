@@ -2,11 +2,10 @@
 layout: post
 title: Salesforce CEO Benioff on "In Tech We Trust"
 date: '2015-02-01 00:18:18'
+link: http://webcasts.weforum.org/widget/1/davos2015?p=1&pi=1&hl=english&a=62084
 tags:
 - trust
 ---
-
-<!-- link[http://webcasts.weforum.org/widget/1/davos2015?p=1&pi=1&hl=english&a=62084] -->
 
 >How can trust in the hyperconnected company be preserved?
 

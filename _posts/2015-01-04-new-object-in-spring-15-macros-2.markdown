@@ -11,7 +11,7 @@ tags:
 
 In the Spring '15 pre-release orgs there is a new object called Macros. At the moment it seems like a fairly normal standard object with the exception of the UI on the page layout:
 
-![Macro Page Layout](/content/images/2015/01/macros-layout-1.png)
+![Macro Page Layout](/assets/images/macros-layout-1.png)
 
 At present you can click to add "Macro Instructions" but you can't pick anything from the picklist and when you save nothing happens.
 

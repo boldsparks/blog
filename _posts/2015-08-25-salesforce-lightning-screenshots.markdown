@@ -4,7 +4,7 @@ title: 'Salesforce Lightning: All the Screenshots'
 date: '2015-08-25 23:17:25'
 ---
 
-![Lightning Device Family](/content/images/2015/08/lightning-device-family.png)
+![Lightning Device Family](/assets/images/lightning-device-family.png)
 
 Salesforce have announced the availability of Salesforce Lightning.
 
@@ -22,159 +22,159 @@ Here is an extensive collection of screenshots of the new interface from the cov
 
 The new homepage: gone are the horizontal tabs and the old sidebar. Now we have a vertical sidebar with only icons instead of words.
 
-![Salesforce Lightning Homepage](/content/images/2015/08/lightning-home.png)
+![Salesforce Lightning Homepage](/assets/images/lightning-home.png)
 
 However the sidebar does expand to show the names of each section.
 
-![Salesforce Lightning Homepage Sidebar](/content/images/2015/08/lightning-homepage-sidebar.png)
+![Salesforce Lightning Homepage Sidebar](/assets/images/lightning-homepage-sidebar.png)
 
 **Lightning App Launcher**
 
-![Lightning App Launcher](/content/images/2015/08/lightning-app-launcher.png)
+![Lightning App Launcher](/assets/images/lightning-app-launcher.png)
 
 **App Setup Menu**
 
 New dropdown menu to access the new setup menu.
 
-![Setup Menu Dropdown](/content/images/2015/08/lightning-setup-menu-dropdown.png)
+![Setup Menu Dropdown](/assets/images/lightning-setup-menu-dropdown.png)
 
 The new setup menu.
 
-![Setup Menu](/content/images/2015/08/lightning-setup-menu.png)
+![Setup Menu](/assets/images/lightning-setup-menu.png)
 
 Some items have moved around from the old to the new setup menus. Notably custom and standard objects are now in the same place.
 
-![Setup Menu Transition](/content/images/2015/08/lightning-setup-menu-transition.png)
+![Setup Menu Transition](/assets/images/lightning-setup-menu-transition.png)
 
 Management of the App Menu.
 
-![App Setup Menu](/content/images/2015/08/lightning-app-menu-setup.png)
+![App Setup Menu](/assets/images/lightning-app-menu-setup.png)
 
-![App Setup Menu 2](/content/images/2015/08/lightning-setup-app-menu.png)
+![App Setup Menu 2](/assets/images/lightning-setup-app-menu.png)
 
-![Marketing App Setup Menu](/content/images/2015/08/lightning-marketing-app.png)
+![Marketing App Setup Menu](/assets/images/lightning-marketing-app.png)
 
 Object Manager - the new settings page for each object.
 
-![Object Manager](/content/images/2015/08/lightning-object-manager.png)
+![Object Manager](/assets/images/lightning-object-manager.png)
 
 The opportunities object manager page.
 
-![Object Manager - Opportunities](/content/images/2015/08/lightning-opportunity-setup.png)
+![Object Manager - Opportunities](/assets/images/lightning-opportunity-setup.png)
 
 **Global Search**
 
 Global search is now at the top and centre of each page.
 
-![Global Search](/content/images/2015/08/lightning-global-search.png)
+![Global Search](/assets/images/lightning-global-search.png)
 
 Auto complete suggestions in global search.
 
-![Global Search Auto Complete](/content/images/2015/08/lightning-global-search-auto-complete.png)
+![Global Search Auto Complete](/assets/images/lightning-global-search-auto-complete.png)
 
 Top results from Global Search are cross object with tabs for each object.
 
-![Global Search Results](/content/images/2015/08/lightning-global-search-results.png)
+![Global Search Results](/assets/images/lightning-global-search-results.png)
 
 Tabs to navigate between search result objects.
 
-![Global Search Results Top](/content/images/2015/08/lightning-global-search-top-results.png)
+![Global Search Results Top](/assets/images/lightning-global-search-top-results.png)
 
 **Help Menu**
 
 Contextual help and training.
 
-![Help Menu](/content/images/2015/08/lightning-help-menu.png)
+![Help Menu](/assets/images/lightning-help-menu.png)
 
 **Opportunity Management**
 
 Opportunity view page including Sales Path.
 
-![Opportunity Workspace](/content/images/2015/08/lightning-opportunity-workspace.png)
+![Opportunity Workspace](/assets/images/lightning-opportunity-workspace.png)
 
 Lightning App Builder showing custom opportunity workspace.
 
-![Custom Opportunity Workspace](/content/images/2015/08/lightning-app-builder.jpg)
+![Custom Opportunity Workspace](/assets/images/lightning-app-builder.jpg)
 
 Opportunity Sales Path.
 
-![Sales Path](/content/images/2015/08/lightning-sales-path.png)
+![Sales Path](/assets/images/lightning-sales-path.png)
 
 Modifying the Opportunity Sales Path.
 
-![Sales Path Edit](/content/images/2015/08/lightning-opportunity-sales-path-edit.png)
+![Sales Path Edit](/assets/images/lightning-opportunity-sales-path-edit.png)
 
 Activity Timeline on Opportunities.
 
-![Activity Timeline](/content/images/2015/08/lightning-activity-timeline.png)
+![Activity Timeline](/assets/images/lightning-activity-timeline.png)
 
 Opportunity List View.
 
-![Opportunity List](/content/images/2015/08/lightning-opportunity-list.png)
+![Opportunity List](/assets/images/lightning-opportunity-list.png)
 
 Opportunity Board View.
 
-![Opportunity Board](/content/images/2015/08/lightning-opportunity-board.png)
+![Opportunity Board](/assets/images/lightning-opportunity-board.png)
 
 Opportunity Board View Design.
 
-![Opportunity Board Design Sketch](/content/images/2015/08/lightning-sketch-1.png)
+![Opportunity Board Design Sketch](/assets/images/lightning-sketch-1.png)
 
 **Lead Management**
 
 Lead Detail View.
 
-![Lead View](/content/images/2015/08/lightning-lead-view.png)
+![Lead View](/assets/images/lightning-lead-view.png)
 
 **Accounts & Contacts**
 
 Account List View.
 
-![Account List View](/content/images/2015/08/lightning-account-list-view.png)
+![Account List View](/assets/images/lightning-account-list-view.png)
 
 List view controls.
 
-![List View Controls](/content/images/2015/08/lightning-list-view.png)
+![List View Controls](/assets/images/lightning-list-view.png)
 
 Account Detail View.
 
-![Account View](/content/images/2015/08/lightning-account-view.png)
+![Account View](/assets/images/lightning-account-view.png)
 
 Contact Detail View.
 
-![Contact View](/content/images/2015/08/lightning-contact-view.png)
+![Contact View](/assets/images/lightning-contact-view.png)
 
 **Misc**
 
 User Record.
 
-![User View](/content/images/2015/08/lightning-user-view.png)
+![User View](/assets/images/lightning-user-view.png)
 
 Case Detail View.
 
-![Case View](/content/images/2015/08/lightning-case-view.png)
+![Case View](/assets/images/lightning-case-view.png)
 
 Custom Object Detail View.
 
-![Custom Object View](/content/images/2015/08/lightning-custom-object-view.png)
+![Custom Object View](/assets/images/lightning-custom-object-view.png)
 
 **Tasks & Calendar**
 
 Task List.
 
-![Task View](/content/images/2015/08/lightning-task-view.png)
+![Task View](/assets/images/lightning-task-view.png)
 
 Calendar.
 
-![Calendar View](/content/images/2015/08/lightning-calendar-view.png)
+![Calendar View](/assets/images/lightning-calendar-view.png)
 
-![Calendar Day View](/content/images/2015/08/lightning-calendar-view-day.png)
+![Calendar Day View](/assets/images/lightning-calendar-view-day.png)
 
 **Reporting & Dashboards**
 
-![Lightning Dashboard](/content/images/2015/08/lightning-dashboard.jpg)
+![Lightning Dashboard](/assets/images/lightning-dashboard.jpg)
 
-![Lightning Dashboard 2](/content/images/2015/08/lightning-dashboard-imac.png)
+![Lightning Dashboard 2](/assets/images/lightning-dashboard-imac.png)
 
 
 **Where can I read more?**
