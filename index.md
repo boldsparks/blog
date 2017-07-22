@@ -5,7 +5,7 @@ layout: default
 
 {% for post in site.posts %}
 
-{% if page.layout == 'post' %}
+{% if post.layout == 'post' %}
 
 {% if post.link == null %}
 <h2><a href="{{post.url}}">{{ post.title }}</a></h2>
