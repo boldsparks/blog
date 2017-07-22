@@ -3,6 +3,7 @@ title:        Boldsparks
 tagline:      Salesforce and other cloud technologies
 baseurl:      ""
 paginate:     1
+permalink:    /:slug
 
 # About/contact
 author:
