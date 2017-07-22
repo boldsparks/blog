@@ -5,6 +5,8 @@ layout: default
 
 {% for post in site.posts %}
 
+{% if page.layout == 'post' %}
+
 {% if post.link == null %}
 <h2><a href="{{post.url}}">{{ post.title }}</a></h2>
 <p class="meta"><a href="{{post.url}}">{{ post.date | date_to_string }}</a></p>
@@ -14,5 +16,7 @@ layout: default
 {% endif %}
 
 {{ post.content }}
+
+{% endif %}
 
 {% endfor %}
