@@ -8,7 +8,7 @@ permalink:    /:slug
 # About/contact
 author:
   name:       Sam Davyson
-  url:        http://davyson.com
+  url:        http://davyson.com 
 
 # Gems
 gems:
