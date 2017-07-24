@@ -149,11 +149,8 @@ a:hover { text-decoration: underline; }
 @media screen and (min-width: 42em) and (max-width: 64em) { .project-name { font-size: 2.25rem; } }
 @media screen and (max-width: 42em) { .project-name { font-size: 1.75rem; } }
 
-.project-name-link a { text-decoration:none; !important color: #fff; !important }
-a.project-name-link { text-decoration:none; !important color: #fff; !important }
-
-.project-name-link a:visited { text-decoration:none; color: #fff; }
-a:visited.project-name-link { text-decoration:none; !important color: #fff; !important }
+a.project-name-link:link { text-decoration:none; !important color: #fff; !important }
+a.project-name-link:visited { text-decoration:none; !important color: #fff; !important }
 
 .project-name a:active { text-decoration:none; color: #fff; }
 .project-name a:hover { text-decoration:none; color: #fff; }
